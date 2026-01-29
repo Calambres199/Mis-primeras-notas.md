@@ -7,16 +7,7 @@
 -  Imagina que un presidente debe conectar varias ciudades (o islas) separadas por ríos (o mares) construyendo puentes. Cada posible puente tiene un costo de construcción diferente. El objetivo es conectar todas las ciudades al menor costo posible, sin necesariamente conectar todas las ciudades directamente entre sí, pero asegurando que se pueda llegar de cualquier ciudad a otra (quizás pasando por otras ciudades). Este es exactamente el problema del Árbol de Expansión.
 -  ## Teorema menconado en clase
 -  # Teorema del Matrimonio o Hall's Marriage
--  Existe un emparejamiento perfecto de \( X \) a \( Y \) \textbf{si y sólo si} 
-para todo subconjunto \( A \subseteq X \), se cumple:
-
-\[|A| \leq |N(A)|\]
-\noindent donde:
-\begin{itemize}
-    \item \( |A| \) denota el número de vértices en \( A \)
-    \item \( N(A) = \{ y \in Y \mid \exists x \in A \text{ tal que } (x, y) \in E \} \) es la \textbf{vecindad} de \( A \)
-    \item \( |N(A)| \) es el tamaño de dicha vecindad
-\end{itemize}
--  ¿Cuándo existe un emparejamiento perfecto en un grafo bipartito? 
+-  ¿Cuándo existe un emparejamiento perfecto en un grafo bipartito?
+-  Existe un **emparejamiento perfecto** de $X$ a $Y$ **si y sólo si** para todo subconjunto $A \subseteq X$, se cumple:$$|A| \leq |N(A)|$$
 - # Mi proposito 😆
 -  Aprender a usar mas esta pagina, lo cual es muy interesante y funcional. Tambien a poder a programar de manera mas eficiente. 😆
