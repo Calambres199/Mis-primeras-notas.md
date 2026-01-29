@@ -8,6 +8,6 @@
 -  ## Teorema menconado en clase
 -  # Teorema del Matrimonio o Hall's Marriage
 -  ¿Cuándo existe un emparejamiento perfecto en un grafo bipartito?
--  Existe un **emparejamiento perfecto** de $X$ a $Y$ **si y sólo si** para todo subconjunto $A \subseteq X$, se cumple:$$|A| \leq |N(A)|$$
+-  Existe un **emparejamiento perfecto** de $X$ a $Y$ **si y sólo si** para todo subconjunto $A \subseteq X$, se cumple: $|A| \leq |N(A)|$
 - # Mi proposito 😆
 -  Aprender a usar mas esta pagina, lo cual es muy interesante y funcional. Tambien a poder a programar de manera mas eficiente. 😆
